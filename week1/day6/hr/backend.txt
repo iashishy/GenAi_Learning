@@ -1,0 +1,21 @@
+Job Title: Backend Developer
+
+Required Skills:
+Python
+Django
+AWS
+Docker
+Git
+SQL
+
+Projects:
+REST API
+E-commerce Website
+
+Experience:
+Backend Development
+API Development
+
+Education:
+B.Tech
+Computer Science
