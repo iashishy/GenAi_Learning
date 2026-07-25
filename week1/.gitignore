@@ -1,0 +1,15 @@
+# Environment
+.env
+.env copy
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated reports
+reports/
+
+# OS / Editor
+.vscode/
+.DS_Store
